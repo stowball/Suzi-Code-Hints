@@ -4,4 +4,4 @@ Adds code hint support for all of Suzi's mixins and functions: https://github.co
 
 Suzi is a responsive, Sass UI Framework by [Izilla](http://izilla.com.au)
 
-Watch a demo video screencast of the code hints in action on YouTube: https://github.com/stowball/Suzi-Code-Hints
+Watch a demo video screencast of the code hints in action on YouTube: http://www.youtube.com/watch?v=NqCedY_j0BU
